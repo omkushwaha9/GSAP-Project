@@ -12,7 +12,13 @@ ScrollTrigger enables anyone to create jaw-dropping scroll-based animations with
 About this project 
 </h2>
 
-This project has an GSAP ScrollTrigger example which showcases a page which has a big text and it shows when we scroll the page downwoards the the huge text moves automatically when we scroll more and afte the text ends the other page showcases.
+This project showcases a webpage featuring prominently displayed large text that dynamically moves as the user scrolls down. Initially, the user is presented with this big, impactful text which captures their attention. As the user continues to scroll, the text moves smoothly upward, creating an engaging scrolling experience. This motion is designed to draw the user’s focus and maintain their interest. Once the large text scrolls off the screen, the subsequent content of the page is revealed seamlessly. This design not only emphasizes the importance of the initial message but also ensures a fluid transition to the remaining content, enhancing the overall user experience.
+
+
+
+
+
+
 
 <h1>
 by OM KUSHWAHA
