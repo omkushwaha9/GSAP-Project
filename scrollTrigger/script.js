@@ -6,7 +6,6 @@ gsap.to("#page2 h1",{
         // markers:true,
         start:"top 0%",
         end: "top 150%",
-        duration:3,
         scrub:10,
         pin:true
     }
